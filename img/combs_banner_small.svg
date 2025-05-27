@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="355.51501"
+   height="679.18799"
+   viewBox="0 0 355.51501 679.188"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="combs_banner_small.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath59">
+      <rect
+         style="fill:#ffd42a;stroke-width:1.2293"
+         id="rect59"
+         width="327.3905"
+         height="527.80737"
+         x="-193.6427"
+         y="-327.37726"
+         transform="rotate(-23)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath60">
+      <rect
+         style="fill:#ffd42a;stroke-width:1.2293"
+         id="rect60"
+         width="327.3905"
+         height="527.80737"
+         x="-218.99069"
+         y="50.874744"
+         transform="rotate(-23)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath61">
+      <rect
+         style="fill:#ffd42a;stroke-width:1.2293"
+         id="rect61"
+         width="327.3905"
+         height="527.80737"
+         x="-249.87569"
+         y="-195.73125"
+         transform="rotate(-23)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath62">
+      <rect
+         style="fill:#ffd42a;stroke-width:1.2293"
+         id="rect62"
+         width="327.3905"
+         height="527.80737"
+         x="-132.77269"
+         y="164.95773"
+         transform="rotate(-23)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath63">
+      <rect
+         style="fill:#ffd42a;stroke-width:1.2293"
+         id="rect63"
+         width="327.3905"
+         height="527.80737"
+         x="-78.503716"
+         y="32.568752"
+         transform="rotate(-23)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath64">
+      <rect
+         style="fill:#ffd42a;stroke-width:1.2293"
+         id="rect64"
+         width="327.3905"
+         height="527.80737"
+         x="-304.76871"
+         y="-65.195244"
+         transform="rotate(-23)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath65">
+      <rect
+         style="fill:#ffd42a;stroke-width:1.2293"
+         id="rect65"
+         width="327.3905"
+         height="527.80737"
+         x="-163.76871"
+         y="-82.014236"
+         transform="rotate(-23)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath66">
+      <rect
+         style="fill:#ffd42a;stroke-width:1.2293"
+         id="rect66"
+         width="327.3905"
+         height="527.80737"
+         x="0.84159982"
+         y="150.65015" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="true"
+     inkscape:zoom="0.84017265"
+     inkscape:cx="-57.131115"
+     inkscape:cy="245.78282"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14">
+    <sodipodi:guide
+       position="490.66493,529.53786"
+       orientation="0,-1"
+       id="guide19"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="458.68333,179.42361"
+       orientation="0,-1"
+       id="guide20"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="327.61123,562.65262"
+       orientation="1,0"
+       id="guide21"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <rect
+     style="fill:none"
+     id="rect14"
+     width="422.49365"
+     height="679.18799"
+     x="1.6832416"
+     y="0.8416208"
+     clip-path="url(#clipPath66)"
+     transform="matrix(1.0887024,0,0,1.2818811,-1.067035,-191.24438)" />
+  <g
+     id="Polygon_3"
+     data-name="Polygon 3"
+     transform="matrix(1.1799778,0.50087086,-0.50087086,1.1799778,146.53637,107.00371)"
+     fill="none"
+     opacity="0.6"
+     clip-path="url(#clipPath65)">
+    <path
+       d="m 117.839,0 39.28,68.148 -39.28,68.152 H 39.28 L 0,68.148 39.28,0 Z"
+       stroke="none"
+       id="path1" />
+    <path
+       d="M 39.857513,1 1.1542206,68.147896 39.857513,135.29579 H 117.26122 L 155.96451,68.147896 117.26122,1 H 39.857513 M 39.279686,0 h 78.559354 l 39.27969,68.147896 -39.27969,68.147894 H 39.279686 L 0,68.147896 Z"
+       stroke="none"
+       fill="#ffffff"
+       id="path2" />
+  </g>
+  <g
+     id="Polygon_39"
+     data-name="Polygon 39"
+     transform="matrix(1.1799778,0.50087086,-0.50087086,1.1799778,327.28162,85.443757)"
+     fill="none"
+     opacity="0.4"
+     clip-path="url(#clipPath64)">
+    <path
+       d="m 117.839,0 39.28,68.148 -39.28,68.152 H 39.28 L 0,68.148 39.28,0 Z"
+       stroke="none"
+       id="path3" />
+    <path
+       d="M 39.857513,1 1.1542206,68.147896 39.857513,135.29579 H 117.26122 L 155.96451,68.147896 117.26122,1 H 39.857513 M 39.279686,0 h 78.559354 l 39.27969,68.147896 -39.27969,68.147894 H 39.279686 L 0,68.147896 Z"
+       stroke="none"
+       fill="#ffffff"
+       id="path4" />
+  </g>
+  <g
+     id="Polygon_4"
+     data-name="Polygon 4"
+     transform="matrix(1.1799778,0.50087086,-0.50087086,1.1799778,37.23678,-39.878068)"
+     fill="none"
+     opacity="0.4"
+     clip-path="url(#clipPath63)">
+    <path
+       d="m 117.839,0 39.28,68.148 -39.28,68.152 H 39.28 L 0,68.148 39.28,0 Z"
+       stroke="none"
+       id="path5"
+       style="display:inline" />
+    <path
+       d="M 39.857513,1 1.1542206,68.147896 39.857513,135.29579 H 117.26122 L 155.96451,68.147896 117.26122,1 H 39.857513 M 39.279686,0 h 78.559354 l 39.27969,68.147896 -39.27969,68.147894 H 39.279686 L 0,68.147896 Z"
+       stroke="none"
+       fill="#ffffff"
+       id="path6"
+       style="display:inline" />
+  </g>
+  <g
+     id="Polygon_40"
+     data-name="Polygon 40"
+     transform="matrix(1.1799778,0.50087086,-0.50087086,1.1799778,106.80317,-209.585)"
+     fill="none"
+     opacity="0.2"
+     clip-path="url(#clipPath62)">
+    <path
+       d="m 117.839,0 39.28,68.148 -39.28,68.152 H 39.28 L 0,68.148 39.28,0 Z"
+       stroke="none"
+       id="path7" />
+    <path
+       d="M 39.857513,1 1.1542206,68.147896 39.857513,135.29579 H 117.26122 L 155.96451,68.147896 117.26122,1 H 39.857513 M 39.279686,0 h 78.559354 l 39.27969,68.147896 -39.27969,68.147894 H 39.279686 L 0,68.147896 Z"
+       stroke="none"
+       fill="#ffffff"
+       id="path8" />
+  </g>
+  <g
+     id="Polygon_10"
+     data-name="Polygon 10"
+     transform="matrix(1.1799778,0.50087086,-0.50087086,1.1799778,256.91529,252.7754)"
+     fill="none"
+     opacity="0.4"
+     clip-path="url(#clipPath61)">
+    <path
+       d="m 117.839,0 39.28,68.148 -39.28,68.152 H 39.28 L 0,68.148 39.28,0 Z"
+       stroke="none"
+       id="path9" />
+    <path
+       d="M 39.857513,1 1.1542206,68.147896 39.857513,135.29579 H 117.26122 L 155.96451,68.147896 117.26122,1 H 39.857513 M 39.279686,0 h 78.559354 l 39.27969,68.147896 -39.27969,68.147894 H 39.279686 L 0,68.147896 Z"
+       stroke="none"
+       fill="#ffffff"
+       id="path10" />
+  </g>
+  <g
+     id="Polygon_7"
+     data-name="Polygon 7"
+     transform="matrix(1.1799778,0.50087086,-0.50087086,1.1799778,217.3244,-63.344171)"
+     fill="none"
+     opacity="0.4"
+     clip-path="url(#clipPath60)">
+    <path
+       d="m 117.839,0 39.28,68.148 -39.28,68.152 H 39.28 L 0,68.148 39.28,0 Z"
+       stroke="none"
+       id="path11" />
+    <path
+       d="M 39.857513,1 1.1542206,68.147896 39.857513,135.29579 H 117.26122 L 155.96451,68.147896 117.26122,1 H 39.857513 M 39.279686,0 h 78.559354 l 39.27969,68.147896 -39.27969,68.147894 H 39.279686 L 0,68.147896 Z"
+       stroke="none"
+       fill="#ffffff"
+       id="path12" />
+  </g>
+  <g
+     id="Polygon_6"
+     data-name="Polygon 6"
+     transform="matrix(1.1799778,0.50087086,-0.50087086,1.1799778,184.83128,421.52992)"
+     fill="none"
+     opacity="0.2"
+     clip-path="url(#clipPath59)">
+    <path
+       d="m 117.839,0 39.28,68.148 -39.28,68.152 H 39.28 L 0,68.148 39.28,0 Z"
+       stroke="none"
+       id="path13"
+       style="display:inline" />
+    <path
+       d="M 39.857513,1 1.1542206,68.147896 39.857513,135.29579 H 117.26122 L 155.96451,68.147896 117.26122,1 H 39.857513 M 39.279686,0 h 78.559354 l 39.27969,68.147896 -39.27969,68.147894 H 39.279686 L 0,68.147896 Z"
+       stroke="none"
+       fill="#ffffff"
+       id="path14"
+       style="display:inline" />
+  </g>
+</svg>
