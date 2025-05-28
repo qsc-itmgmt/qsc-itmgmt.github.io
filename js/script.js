@@ -14,3 +14,11 @@ const decodedUrl = decodeURIComponent(fullUrl);
 const iframe = document.getElementById("video-frame");
 iframe.src = decodedUrl;
 document.getElementById("video-container").style.display = "flex";
+
+var player = new Vimeo.Player(iframe);
+document.getElementById("video-title").innerText = "";
+
+player.getVideoTitle().then(function(title) {
+    document.getElementById("video-title").innerText = title;
+});
+

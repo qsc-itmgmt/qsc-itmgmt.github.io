@@ -46,6 +46,7 @@ body {
     position: relative;
     overflow: hidden;
     line-height: normal;
+    flex-direction: column;
 }
 
 .qsc-login-background::before {
