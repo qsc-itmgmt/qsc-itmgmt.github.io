@@ -24,7 +24,7 @@ body {
     margin: 0;
 }
 
-.qsc-login-container {
+.qsc-video-container {
     width: 90%;
     max-width: 1000px;
     height: 562px;
@@ -35,7 +35,7 @@ body {
     position: relative;
 }
 
-.qsc-login-background {
+.qsc-video-background {
     font-family: 'Roboto', sans-serif;
     background-color: black;
     display: flex;
@@ -49,7 +49,7 @@ body {
     flex-direction: column;
 }
 
-.qsc-login-background::before {
+.qsc-video-background::before {
     content: '';
     position: absolute;
     top: 0;
@@ -60,4 +60,24 @@ body {
     background-size: 47%;
     background-repeat: no-repeat;
     background-position: top right;
+}
+
+.qsc-video-logo{
+    position: absolute; 
+    top: 0; 
+    right: 0; 
+    height: 70px
+}
+
+.qsc-video-title{
+    position: absolute; 
+    top: 25px; 
+    left: 25px; 
+    margin: 0; 
+    padding: 0; 
+    color: white; 
+    font-size: 30px; 
+    font-weight: bold; 
+    z-index: 1000;
+    font-family: Arial, Helvetica, sans-serif;
 }
