@@ -4,7 +4,6 @@ function getLinkParam() {
 }
 
 var code = getLinkParam();
-
 if (!code) {
     code = "1";
 }
@@ -16,9 +15,25 @@ iframe.src = decodedUrl;
 document.getElementById("video-container").style.display = "flex";
 
 var player = new Vimeo.Player(iframe);
-document.getElementById("video-title").innerText = "";
 
-player.getVideoTitle().then(function(title) {
-    document.getElementById("video-title").innerText = title;
+//Wird aufgerufen wenn das Iframe geladet wird.
+//1. Mal bei Passwort Abfrage -> es gibt keinen Title dadurch wird die Beschreibung auch nicht geladen
+//2. Mal Passwort wurde eingegeben -> es gibt einen Title somit kann auch die Beschreibung aus dem Json File geladen werden.
+player.on('loaded', function () {
+    player.getVideoTitle().then(function (title) {
+        if (title) {
+            document.getElementById("video-title").innerText = title;
+
+            fetch('../description.json')
+            .then(response => response.json())
+            .then(data => {
+                const description = data[code]?.description || "";
+                document.getElementById("video-description").innerHTML = description;
+            })
+            .catch(error => {
+                console.error("Fehler beim Laden der Beschreibung:", error);
+                document.getElementById("video-description").innerText = "Fehler beim Laden der Beschreibung.";
+            });
+        }
+    });
 });
-
