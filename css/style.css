@@ -86,7 +86,7 @@ body {
     position: absolute;
     top: 70px;
     left: 25px;
-    max-width: 600px;
+    max-width: 100%;
     color: #ccc;
     font-size: 18px;
     z-index: 1000;
