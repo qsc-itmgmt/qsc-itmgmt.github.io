@@ -9,25 +9,32 @@
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
   </head>
   <body>
-    <h1 id="video-title" class="qsc-video-title"></h1>
-    <p id="video-description" class="qsc-video-description"></p>
-    <div class="qsc-video-background">
-      <div class="qsc-video-container">
-        <div class="video-container" id="video-container">
-          <div class="video">
-            <iframe
-              id="video-frame"
-              frameborder="0"
-              allow="autoplay; fullscreen; picture-in-picture; clipboard-write"
-              title="Test_Besprechung"
-            ></iframe>
-          </div>
-        </div>
+    <nav>
+      <div class="qsc-video-logo">
+        <img src="img/QSC_logo_white.svg" />
       </div>
+      <p>Willkommen am QSC-Videoportal!</div>
+    </nav>
+
+    <div class="video-container" id="video-container">
+      <iframe
+        id="video-frame"
+        frameborder="0"
+        allow="autoplay; fullscreen; picture-in-picture; clipboard-write"
+        title="Test_Besprechung"
+      ></iframe>
     </div>
-    <div class="qsc-video-logo">
-      <img src="img/qsc-logo.png" style="width: 100%; height: 100%" />
-    </div>
+
+    <main>
+      <p id="video-title" class="qsc-video-title"></h1>
+      <p id="video-description" class="qsc-video-description"></p>
+      <span class="qsc-video-description">
+        Bei technischen Fragen wenden Sie sich bitte an <a href="mailto:marketing@qsc-systems.com">marketing@qsc-systems.com</a>.
+      </span>
+    </main>
+    <footer>
+      © Quality Software & Consulting GmbH & Co KG | <a href="https://www.qsc-systems.com/impressum">Impressum</a> | <a href="https://www.qsc-systems.com/datenschutz">Datenschutz</a>
+    </footer>
 
     <script src="js/script.js"></script>
   </body>
