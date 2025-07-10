@@ -5,14 +5,13 @@ body {
   font-family: "Roboto", sans-serif;
   font-weight: 300;
   color: white;
-  overflow: hidden;
   background-image: url(../img/slider1.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100vh;
-  max-height: 100vh;
-
+  min-height: 100vh;
+  height: 100%;
+  overflow-x: hidden;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -26,11 +25,12 @@ nav {
   justify-content: flex-start;
   position: relative;
 }
+
 nav p {
   justify-self: center;
   font-size: 30px;
   font-weight: bold;
-  margin: 10px auto 30px auto;
+  margin: 20px auto 20px auto;
 }
 
 .qsc-video-logo {
@@ -53,23 +53,12 @@ nav p {
 iframe {
   top: 0;
   left: 0;
-  width: 50vw;
+  width: 60vw;
   border: none;
   aspect-ratio: 16 / 9;
   margin: 0 auto;
-  border-radius: 10px;
-}
-
-main {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  max-width: 50vw;
-  /*box-shadow: 0px 0px 14px -7px #fafafa71, 2px 2px 15px 2px #fafafa7a;*/
-  overflow: hidden;
-  position: relative;
-  margin: auto;
-  margin-top: 2rem;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
 }
 
 .qsc-video-background {
@@ -84,21 +73,42 @@ main {
   flex-direction: column;
 }
 
+main {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 60vw;
+  overflow: hidden;
+  position: relative;
+  margin: 0 auto 10px auto;
+  background-color: #00000069;
+  backdrop-filter: blur(7px);
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  box-sizing: border-box;
+  padding: 10px;
+  padding-top: 0;
+  min-height: 20vh;
+}
+
 .qsc-video-title {
   margin: 0;
+  margin-top: 1rem;
   padding: 0;
-  font-size: 30px;
+  font-size: 24px;
   font-weight: bold;
 }
 
 .qsc-video-description {
   max-width: 100%;
   color: #ddd;
-  font-size: 18px;
+  font-size: 15px;
   overflow: auto;
   display: flex;
   flex-direction: column;
   overflow: auto;
+  margin-top: 5px;
+  margin-bottom: 10px;
 }
 
 .qsc-video-description a {
@@ -107,8 +117,9 @@ main {
 }
 
 footer {
+  width: 100%;
   align-self: flex-start;
-  margin: 0;
+  margin: auto 0 3px 0;
   color: rgba(255, 255, 255, 0.527);
   font-size: 13px;
   float: left;
